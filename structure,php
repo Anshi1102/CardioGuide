@@ -1,0 +1,11 @@
+Heart_Disease_Prediction/
+│── dataset/  # (Yaha Kaggle ka CSV & ECG images aayenge)
+│── models/   # (Trained models yaha save honge)
+│── static/   # (Frontend ke liye CSS/JS)
+│── templates/  # (HTML files)
+│── app.py  # (Flask API)
+│── preprocess.py  # (Data cleaning & feature extraction)
+│── train_model.py  # (Model training)
+│── predict.py  # (Prediction logic)
+│── requirements.txt  # (Dependencies)
+│── README.md  # (Project Guide)
