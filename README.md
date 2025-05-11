@@ -26,3 +26,5 @@ This project predicts heart disease using ECG image data and tabular features. I
 
 **🙋‍♂️ Author**  
 Made by **Anshika Singh**  
+
+[Link for web app after executing [Open app.py](https://github.com/Anshi1102/CardioGuide/blob/main/app.py)](http://127.0.0.1:5000/)  
