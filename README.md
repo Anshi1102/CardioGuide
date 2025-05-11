@@ -9,20 +9,20 @@ CNN – For classifying ECG images
 XGBoost – For feature-based tabular classification  
 Graph Neural Network (Spektral) – For ECG signal graph-based prediction  
 
-**📊 Evaluation Metrics:**
-Accuracy
-Precision
-Recall
-F1 Score
-Confusion Matrix
+**📊 Evaluation Metrics:**  
+Accuracy  
+Precision  
+Recall  
+F1 Score  
+Confusion Matrix  
 
-**🛠 Technologies:**
-Python
-Flask
-TensorFlow / Keras
-XGBoost
-GNN
-HTML/CSS (for frontend)
+**🛠 Technologies:**  
+Python  
+Flask  
+TensorFlow / Keras  
+XGBoost  
+GNN  
+HTML/CSS (for frontend)  
 
-**🙋‍♂️ Author**
-Made by Anshika Singh
+**🙋‍♂️ Author**  
+Made by Anshika Singh  
