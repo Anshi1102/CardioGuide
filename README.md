@@ -4,10 +4,10 @@ This project predicts heart disease using ECG image data and tabular features. I
 ## 📁 Project Structure:
 🔗 [Open structure.txt](https://github.com/Anshi1102/CardioGuide/blob/main/structure.txt)
 
-**🧠 Models Used:**
-CNN – For classifying ECG images
-XGBoost – For feature-based tabular classification
-Graph Neural Network (Spektral) – For ECG signal graph-based prediction
+**🧠 Models Used:**  
+CNN – For classifying ECG images  
+XGBoost – For feature-based tabular classification  
+Graph Neural Network (Spektral) – For ECG signal graph-based prediction  
 
 **📊 Evaluation Metrics:**
 Accuracy
