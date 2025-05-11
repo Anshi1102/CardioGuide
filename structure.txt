@@ -1,0 +1,27 @@
+cardioguide/
+│
+├── dataset/
+│   ├── abnormal/
+│   ├── normal/
+│   ├── ptbdb_abnormal.csv
+│   └── ptbdb_normal.csv
+│
+├── models/
+│   ├── cnn_model.h5
+│   ├── gnn_model.h5
+│   └── xgboost_model.json
+│
+├── static/
+│   ├── favicon.ico
+│   └── style.css
+│
+│── temp/
+│
+├── templates/
+│   └── index.html
+│
+├── app.py
+├── cardioguide logo.jpg
+├── heart.py
+├── requirements.txt
+└── structure.txt

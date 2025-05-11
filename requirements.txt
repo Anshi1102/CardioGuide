@@ -1,0 +1,26 @@
+# Core Backend (Flask)
+Flask==2.3.2
+
+# Machine Learning
+tensorflow==2.14.0
+keras==2.14.0
+xgboost==2.0.3
+scikit-learn==1.3.0
+
+# Image & Signal Processing
+opencv-python==4.8.0.76
+Pillow==10.1.0
+
+# Graph Processing for GNN
+networkx==3.1
+
+# Data Handling
+numpy==1.24.4
+pandas==1.5.3
+
+# Visualization (Optional but used in heart.py for graphs)
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# JSON & Utilities
+joblib==1.3.2
