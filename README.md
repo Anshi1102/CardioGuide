@@ -2,7 +2,7 @@
 This project predicts heart disease using ECG image data and tabular features. It uses a combination of deep learning (CNN), machine learning (XGBoost), and graph neural networks (GNN) for improved prediction accuracy.
 
 ## 📁 Project Structure:
-structure.txt
+🔗 [Open structure.txt](https://github.com/Anshi1102/CardioGuide/blob/main/structure.txt)
 
 **🧠 Models Used:**
 CNN – For classifying ECG images
