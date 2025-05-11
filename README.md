@@ -5,24 +5,24 @@ This project predicts heart disease using ECG image data and tabular features. I
 🔗 [Open structure.txt](https://github.com/Anshi1102/CardioGuide/blob/main/structure.txt)
 
 **🧠 Models Used:**  
-CNN – For classifying ECG images  
-XGBoost – For feature-based tabular classification  
-Graph Neural Network (Spektral) – For ECG signal graph-based prediction  
+- **Convolutional Neural Network –** For classifying ECG images  
+- **XGBoost –** For feature-based tabular classification  
+- **Graph Neural Network –** For ECG signal graph-based prediction  
 
 **📊 Evaluation Metrics:**  
-Accuracy  
-Precision  
-Recall  
-F1 Score  
-Confusion Matrix  
+- Accuracy  
+- Precision  
+- Recall  
+- F1 Score  
+- Confusion Matrix  
 
 **🛠 Technologies:**  
-Python  
-Flask  
-TensorFlow / Keras  
-XGBoost  
-GNN  
-HTML/CSS (for frontend)  
+- Python  
+- Flask  
+- TensorFlow / Keras  
+- XGBoost  
+- GNN  
+- HTML/CSS   
 
 **🙋‍♂️ Author**  
-Made by Anshika Singh  
+Made by **Anshika Singh**  
